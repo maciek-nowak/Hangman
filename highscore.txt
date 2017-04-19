@@ -1,10 +1,10 @@
-pik | 2017-04-19 | -11 | 2 | AMSTERDAM 
-plop | 2017-04-18 | 5 | 1 | HANOI 
-ll | 2017-04-18 | 5 | 1 | CARACAS 
-rty | 2017-04-19 | 7 | 2 | BERN 
-wer | 2017-04-19 | 8 | 2 | PRAGUE 
-MaciekN | 2017-04-18 | 9 | 1 | VALLETTA 
-dfg | 2017-04-18 | 9 | 2 | ROSEAU 
 Shaggy | 2017-04-06 | 10 | 1 | PRAIA 
-polipik | 2017-04-18 | 11 | 1 | GEORGETOWN 
-wacław | 2017-04-18 | 11 | 3 | TEHRAN 
+Pikuś | 2017-04-06 | 14 | 1 | DOHA 
+Reksio | 2017-04-06 | 16 | 1 | MUSCAT 
+Muflon | 2017-04-06 | 16 | 1 | PORT VILA 
+Dexter | 2017-04-06 | 23 | 2 | MANAGUA 
+Hamster | 2017-04-06 | 27 | 7 | ASTANA 
+Scoobie | 2017-04-06 | 28 | 1 | CAIRO 
+plik | 2017-04-07 | 45 | 7 | SAN MARINO 
+mateusz | 2017-04-07 | 51 | 6 | SAN SALVADOR 
+Kaktus | 2017-04-06 | 76 | 7 | BEIJING 
