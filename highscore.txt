@@ -1,0 +1,10 @@
+pik | 2017-04-19 | -11 | 2 | AMSTERDAM 
+plop | 2017-04-18 | 5 | 1 | HANOI 
+ll | 2017-04-18 | 5 | 1 | CARACAS 
+rty | 2017-04-19 | 7 | 2 | BERN 
+wer | 2017-04-19 | 8 | 2 | PRAGUE 
+MaciekN | 2017-04-18 | 9 | 1 | VALLETTA 
+dfg | 2017-04-18 | 9 | 2 | ROSEAU 
+Shaggy | 2017-04-06 | 10 | 1 | PRAIA 
+polipik | 2017-04-18 | 11 | 1 | GEORGETOWN 
+wacław | 2017-04-18 | 11 | 3 | TEHRAN 
